@@ -2,7 +2,7 @@
  
 **Greta Tödtmann** | Stockholm University
  
-This repository contains the datasets, code, and trained models associated with my master's thesis. The work investigates the use of high-resolution mass spectrometry (HRMS)-compatible molecular fingerprints as features for machine learning models that predict the removal efficiency of organic contaminants by granular activated carbon (GAC).
+This repository contains the datasets and code associated with my master's thesis. The work investigates the use of high-resolution mass spectrometry (HRMS)-compatible molecular fingerprints as features for machine learning models that predict the removal efficiency of organic contaminants by granular activated carbon (GAC).
  
 ---
  
