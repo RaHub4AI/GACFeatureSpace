@@ -23,10 +23,10 @@ Contains cleaned BV10 regression set and RE classification set, as well as the c
 Contains the workflow to generate chemical space mappings of datasets onto a subset of PubChemLite.
  
 ### `raw_models/`
-BV10 regressor and RE classifier models trained on molecular fingerprints and DOC data.
+Contains BV10 regressor and RE classifier workflows for training on molecular fingerprints and DOC data.
  
 ### `residualized_models/`
-DOC-residualized BV10 regressor and RE classifier fingerprint models used for feature importance analysis.
+Contains DOC-residualized fingerprint BV10 regressor and RE classifier workflows used for feature importance analysis.
  
 ### `multitask_models/`
-Multitask learning implementations that jointly predict RE and BV10.
+Contains multitask learning implementations that jointly predict RE and BV10.
