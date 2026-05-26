@@ -9,7 +9,7 @@ This repository contains the datasets and code associated with my master's thesi
 ## Repository Structure
  
 ```
-├── data/                   # Processed datasets used for model training and evaluation
+├── data/                   # Processed datasets used for model training and evaluation, as well as code necessary to generate these datasets
 ├── mapping/                # UMAP workflow and PubChemLite subset used for chemspace mapping
 ├── raw_models/             # raw fingerprint + DOC models
 ├── residualized_models/    # DOC-residualized models
@@ -17,7 +17,7 @@ This repository contains the datasets and code associated with my master's thesi
 ```
  
 ### `data/`
-Contains cleaned BV10 regression set and RE classification set, as well as the cleaning workflow used to produce these datasets.
+Contains cleaned BV10 regression set and RE classification set, as well as the cleaning workflow and fingerprinting used to produce these datasets.
  
 ### `mapping/`
 Contains the workflow to generate chemical space mappings of datasets onto a subset of PubChemLite.
